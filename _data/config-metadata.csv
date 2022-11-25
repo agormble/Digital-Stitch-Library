@@ -4,7 +4,7 @@ creator,Creator,
 contributor,Contributor
 date,Date Created,
 description,Description,
-medium,Medium, true
+medium,Medium,true
 deminsions;Deminsions
 subject,Subjects,true
 location,Location
