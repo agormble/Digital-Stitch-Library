@@ -11,7 +11,7 @@ location,Location
 latitude,Latitude
 longitude,Longitude
 source,Source
-identifier,Source Identifier,,
+identifier,Collection Identifier,,
 type,Type,
 format,Format,
 rights,Rights,
