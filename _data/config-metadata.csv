@@ -13,3 +13,6 @@ type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
+contributor,Contributor
+medium,Medium
+demensions;Demensions
